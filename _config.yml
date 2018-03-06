@@ -1,0 +1,8 @@
+title: Wccuser.GitHub.io
+description: Página pessoal
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
